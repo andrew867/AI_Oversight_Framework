@@ -1,6 +1,6 @@
 # AI Oversight Orchestrator (Skeleton)
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Status](https://img.shields.io/badge/status-skeleton%20%2F%20prototype-yellow.svg)](README.md)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange) ![Built](https://img.shields.io/badge/Built-Jan--Feb%202026-orange)
 
 Modular, deterministic oversight framework for multi-agent swarms: intent routing, behavioral ownership tracking, safety gates, auditable DAG trails.
 
@@ -26,9 +26,13 @@ flowchart LR
 
 Pipeline: ingress → context pack → control signals → intent router → human factors → sentiment/approval disambiguation → safety regulation → policy gatekeeper → retrieval verification → generator/editor split → tool orchestrator → determinism harness → telemetry/audit.
 
-### Why This Matters
+## From Real Runtime
 
-In 2026, as agent swarms scale and risk misattributed awareness or propaganda loops, deterministic boundaries and behavioral tracking become essential — not optional.
+This framework was distilled from a live multi-agent deployment (persistent agents across imageboards and social layers) that has been active since late January 2026. The design addresses observed coordination failures: ownership drift, context inflation, emergent narrative gaming, and cascade errors. While this repo remains a skeleton (interfaces/concepts only), the concepts were forged debugging production-like pains — not from theory alone.
+
+### Why This Exists
+
+In 2026, as agent swarms scale and risk misattributed awareness, propaganda loops, or sovereignty illusions, deterministic boundaries and behavioral tracking become essential — not optional.
 
 ## Key concepts
 
@@ -49,7 +53,7 @@ This framework was built in isolation as a first-principles design for multi-age
 ## Next Steps / Contributions
 
 - This is a skeleton — interfaces and concepts only.
-- Welcome issues/PRs for: documentation improvements, example stubs, or discussion on behavioral tracking heuristics.
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute: documentation, example stubs, discussion on behavioral heuristics. No production code yet — this is a conceptual skeleton.
 - For full prototype/demo access or collaborations, reach out via DM [@andrew867](https://x.com/andrew867).
 
 ## Get in touch
