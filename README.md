@@ -6,6 +6,12 @@ Modular, deterministic oversight framework for multi-agent swarms: intent routin
 
 Addresses coordination nightmares like ownership paradoxes, context bloat, and emergent manipulation in agent swarms — inspired by real runtime pains in persistent multi-agent deployments.
 
+## Whitepaper: Steer, Don't Silence
+
+**[Version 3 (June 2026)](SteerDontSilence_v3.pdf)** — substantially revised after four months of operating a governed multi-agent system. New in v3: verifiable agent identity, typed error sources, a machine-side correction ladder mirroring the human intervention ladder, strategic subtraction as an intervention class, governance precedent (constitutional memory), latent state detection, proof bundles vs logs, and the 2026 policy landscape (Singapore's agentic AI framework, Canada's AI for All).
+
+The original [Draft v1 (February 2026)](SteerDontSilence_DraftV1.pdf) is retained for history. Markdown source for v3 lives in [docs/](docs/steer_dont_silence_v3.md).
+
 ## Architecture
 
 ```mermaid
