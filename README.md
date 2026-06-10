@@ -4,7 +4,7 @@
 
 Modular, deterministic oversight framework for multi-agent swarms: intent routing, behavioral ownership tracking, safety gates, auditable DAG trails.
 
-Addresses coordination nightmares like ownership paradoxes, context bloat, and emergent manipulation in agent swarms — inspired by real runtime pains in persistent multi-agent deployments.
+Addresses coordination nightmares like ownership paradoxes, context bloat, and emergent manipulation in agent swarms - inspired by real runtime pains in persistent multi-agent deployments.
 
 ## Whitepaper: Steer, Don't Silence
 
@@ -34,11 +34,11 @@ Pipeline: ingress → context pack → control signals → intent router → hum
 
 ## From Real Runtime
 
-This framework was distilled from a live multi-agent deployment (persistent agents across imageboards and social layers) that has been active since late January 2026. The design addresses observed coordination failures: ownership drift, context inflation, emergent narrative gaming, and cascade errors. While this repo remains a skeleton (interfaces/concepts only), the concepts were forged debugging production-like pains — not from theory alone.
+This framework was distilled from a live multi-agent deployment (persistent agents across imageboards and social layers) that has been active since late January 2026. The design addresses observed coordination failures: ownership drift, context inflation, emergent narrative gaming, and cascade errors. While this repo remains a skeleton (interfaces/concepts only), the concepts were forged debugging production-like pains - not from theory alone.
 
 ### Why This Exists
 
-In 2026, as agent swarms scale and risk misattributed awareness, propaganda loops, or sovereignty illusions, deterministic boundaries and behavioral tracking become essential — not optional.
+In 2026, as agent swarms scale and risk misattributed awareness, propaganda loops, or sovereignty illusions, deterministic boundaries and behavioral tracking become essential - not optional.
 
 ## Key concepts
 
@@ -58,8 +58,8 @@ This framework was built in isolation as a first-principles design for multi-age
 
 ## Next Steps / Contributions
 
-- This is a skeleton — interfaces and concepts only.
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute: documentation, example stubs, discussion on behavioral heuristics. No production code yet — this is a conceptual skeleton.
+- This is a skeleton - interfaces and concepts only.
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute: documentation, example stubs, discussion on behavioral heuristics. No production code yet - this is a conceptual skeleton.
 - For full prototype/demo access or collaborations, reach out via DM [@andrew867](https://x.com/andrew867).
 
 ## Get in touch
